@@ -13,7 +13,13 @@ After communicating with the client, he wanted to make changes to the site, he n
 
 5) I decided to focus on the main page and divide it into 6 logical elements.
 
-6) Main - similar to LP-site, a) large photo + Name Surname b) Gallery of 3 photos with a link to all photos. c) next speech d) Press (quotes) e) Biography (short + video) g) contacts.
+6) Main - similar to LP-site, 
+a) large photo + Name Surname 
+b) Gallery of 3 photos with a link to all photos. 
+c) next speech 
+d) Press (quotes) 
+e) Biography (short + video) 
+g) contacts.
 
 7) Menu: Home, Biography, Gallery, Video, Repertoire.
 
@@ -25,5 +31,13 @@ Initially, the entire site was black and white, the client liked everything, onl
 In addition, many photos, text, blocks and various elements have been changed.
 
 Everyone to deploy the site ~ 8-10 hours.
+
+
+Used:
+CMS- WordPress
+Plagin -Elementor
+Photoshop
+HTML+CSS
+favicon.io
 
 
