@@ -21,3 +21,9 @@ After communicating with the client, he wanted to make changes to the site, he n
 https://u.to/c1WrGg
 
 
+Initially, the entire site was black and white, the client liked everything, only she wanted the numbers to be colored, there was a theater inside them.
+In addition, many photos, text, blocks and various elements have been changed.
+
+Everyone to deploy the site ~ 8-10 hours.
+
+
